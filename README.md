@@ -7,4 +7,7 @@
 
 # <div align="center">Thank You</div>
 ![Busetdah github](https://github-readme-stats.vercel.app/api?username=Busetdah&show_icons=true&hide_border=false)
+
+<div align="center">
 ![Visitor](https://komarev.com/ghpvc/?username=Busetdah&color=blueviolet&style=plastic&label=Sing+ndelok)
+</div>
