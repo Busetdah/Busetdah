@@ -2,7 +2,7 @@
 # <div align="center">HELLO👋</div>
 
 * Iam 17's Y.O, n Iam a gadget lovers.
-* Pro? No im still learning. So, feel free if we can learn together in my <a href="https://t.me/ThisIsGroup1">Telegram Group</a>
+* Let learn together in my <a href="https://t.me/ThisIsGroup2">Telegram Group</a>
 * This is my <a href="https://t.me/ThisIsTag">Telegram Account</a>
 
 # <div align="center">Thank You</div>
