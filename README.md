@@ -1,7 +1,7 @@
 ![logo](https://github.com/Busetdah/Busetdah/raw/master/Buset.jpg)
 # <div align="center">HELLO👋</div>
 
-* Iam 18's Y.O, n Iam a gadget lovers.
+* Iam 19's Y.O, n Iam a gadget lovers.
 * Let learn together in my <a href="https://t.me/ThisIsGroup2">Telegram Group</a>
 * This is my <a href="https://t.me/ThisIsTag">Telegram Account</a>
 
