@@ -46,8 +46,6 @@ I love turning ideas into reality through code. I work with various languages an
 <div align="center" style="margin-top: 10px;">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" style="margin: 4px;">
   <img src="https://img.shields.io/badge/NodeMCU-3D9970?style=flat&logo=nodemcu&logoColor=white" alt="NodeMCU" style="margin: 4px;">
-  <img src="https://img.shields.io/badge/ESP32-007ACC?style=flat&logo=esp32&logoColor=white" alt="ESP32" style="margin: 4px;">
-  <img src="https://img.shields.io/badge/ESP8266-000?style=flat&logo=esp8266&logoColor=white" alt="ESP8266" style="margin: 4px;">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-EE3B2C?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" style="margin: 4px;">
 </div>
 
@@ -58,7 +56,6 @@ I love turning ideas into reality through code. I work with various languages an
 
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="margin: 4px;">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" style="margin: 4px;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" style="margin: 4px;">
 </div>
 
