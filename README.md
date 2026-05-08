@@ -4,16 +4,16 @@ I love turning ideas into reality through code. I work with various languages an
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 I’m currently working on awesome projects while continuously expanding my skillset.
-- 🌱 I’m learning advanced algorithms and exploring **AI, Machine Learning and Automation**.
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I enjoy coding with ~~a cup of coffee ☕~~ a bottle of water. Bro, it's more healthy 😜
+- I’m currently working on awesome projects while continuously expanding my skillset.
+- I’m learning advanced algorithms and exploring **AI, Machine Learning and Automation**.
+- 
+- Fun fact: I enjoy coding with ~~a cup of coffee ☕~~ a bottle of water. Bro, it's more healthy 😜
 
 ---
 
-## 🛠️ Languages, Frameworks & Tools
+## Languages, Frameworks & Tools
 
 <div align="center">
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
@@ -51,7 +51,7 @@ I love turning ideas into reality through code. I work with various languages an
 
 ---
 
-## 💻 Platforms
+## Platforms
 
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="margin: 4px;">
@@ -60,7 +60,7 @@ I love turning ideas into reality through code. I work with various languages an
 
 ---
 
-## 📈 GitHub Stats  
+## GitHub Stats  
 
 <div align="center">
   <a href="https://github.com/busetdah" style="margin: 10px;">
@@ -73,12 +73,12 @@ I love turning ideas into reality through code. I work with various languages an
 
 ---
 
-## 🚀 Projects
+## Projects
 
 For the projects I've worked on, check out the pinned repositories below.
 
 ---
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
   <a href="mailto:apriantowpj@gmail.com" style="margin: 4px;">
