@@ -8,7 +8,6 @@ I love turning ideas into reality through code. I work with various languages an
 
 - I’m currently working on awesome projects while continuously expanding my skillset.
 - I’m learning advanced algorithms and exploring **AI, Machine Learning and Automation**.
-- 
 - Fun fact: I enjoy coding with ~~a cup of coffee ☕~~ a bottle of water. Bro, it's more healthy 😜
 
 ---
