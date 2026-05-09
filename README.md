@@ -59,19 +59,6 @@ I love turning ideas into reality through code. I work with various languages an
 
 ---
 
-## GitHub Stats  
-
-<div align="center">
-  <a href="https://github.com/busetdah" style="margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=busetdah&theme=catppuccin_mocha" alt="GitHub Stats" height="200" style="border-radius: 0; max-width: 100%;">
-  </a>
-  <a href="https://github.com/busetdah?tab=repositories" style="margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=busetdah&layout=compact&theme=catppuccin_mocha&langs_count=8&card_width=320" alt="Top Languages" height="200" style="border-radius: 0; max-width: 100%;">
-  </a>
-</div>
-
----
-
 ## Projects
 
 For the projects I've worked on, check out the pinned repositories below.
